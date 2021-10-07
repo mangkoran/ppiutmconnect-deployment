@@ -1,0 +1,3 @@
+[submodule "utm_connect_web"]
+	path = utm_connect_web
+	url = git@bitbucket.org:baron_gobi/utm_connect_web.git
